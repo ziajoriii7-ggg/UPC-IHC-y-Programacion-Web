@@ -1,0 +1,34 @@
+.pedido-page {
+    padding: 20px;
+  }
+  
+  .product-list, .order-summary {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .product-item {
+    margin-bottom: 10px;
+  }
+  
+  .product-action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+
+  
+  .order-summary-item {
+    margin-bottom: 10px;
+  }
+  
+  .total-amount {
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+ 
+  
